@@ -2,6 +2,8 @@
 
 This app uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/).
 
+![resim](https://user-images.githubusercontent.com/121151602/225870411-38c2a6b4-8bc8-42ab-bcb4-56390d56e42d.png)
+
 ## How to setup
 
 1. If you don’t have Node.js installed, [install it from here](https://nodejs.org/en/) (Node.js version >= 14.6.0 required)
